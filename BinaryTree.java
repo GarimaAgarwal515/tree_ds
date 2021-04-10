@@ -1,3 +1,5 @@
+//insertion and traversal using linkedlist  
+
 class Node {
     int data;
     Node left;
